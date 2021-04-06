@@ -1,6 +1,6 @@
 {
 "game" : "Destination: Deep Space",
-"field-image" : "2019-field.jpg",
+"field-image" : "2019-field.png",
 "field-corners": {
 	"top-left" : [217, 40],
 	"bottom-right" : [1372, 615]
